@@ -1,0 +1,23 @@
+# Compilación
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+*.apk
+*.aab
+
+# Visual Studio / Rider / VS Code
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userprefs
+
+# NuGet
+*.nupkg
+packages/
+
+# Sistema
+.DS_Store
+Thumbs.db
